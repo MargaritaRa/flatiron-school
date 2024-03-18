@@ -43,6 +43,7 @@ document.querySelector("form").addEventListener("submit", event => {
             name: document.querySelector("form").name.value,
             types:[
                 document.querySelector("form").type1.value,
+                //looking up the first tag named form, type1 = look for what has the name type 1. value= means we only want the value added
                 document.querySelector("form").type2.value,
             ]
         })
