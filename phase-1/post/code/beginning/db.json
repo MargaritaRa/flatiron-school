@@ -1,0 +1,93 @@
+{
+  "pokemon": [
+    {
+      "id": "1",
+      "name": "Ditto",
+      "types": [
+        "Normal"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Charizar",
+      "types": [
+        "Fire",
+        "Flying"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Gengar",
+      "types": [
+        "Ghost"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Pikachu",
+      "types": [
+        "Electric"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Geodude",
+      "types": [
+        "Rock"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Bulbasaur",
+      "types": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Squirtle",
+      "types": [
+        "Water"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Jigglypuff",
+      "types": [
+        "Normal",
+        "Fairy"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Venusaur",
+      "types": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Mewtwo",
+      "types": [
+        "Psychic"
+      ]
+    },
+    {
+      "id": "b49a",
+      "name": "Scorbunny",
+      "types": [
+        "Fire",
+        ""
+      ]
+    }
+  ],
+  "dogs": [
+    {
+      "id": "1",
+      "name": "Luca",
+      "breed": "German Shepherd"
+    }
+  ]
+}
